@@ -1,0 +1,23 @@
+{
+  "name": "passion-fruit-web",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Hill <jim.hill.r@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.7.0",
+    "gatsby": "^4.14.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
